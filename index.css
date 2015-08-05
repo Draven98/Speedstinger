@@ -1,0 +1,115 @@
+
+#circle{
+
+	border-radius: 50% 50% 50% 50%;
+	width:200px;
+	height:200px;
+
+}
+
+
+span{
+
+	
+	background-color: #21610B;
+}
+
+a:link{
+text-decoration: none;
+color: #FAFAFA;
+
+}
+
+a:hover{
+
+	color:#8A0808;
+}
+
+a:visited {
+
+	color:#886A08;
+}
+
+button{
+					padding: 10px;
+					background-color: #21610B;
+					 border: 0px solid #666; 
+					 font-size: 20px;
+					 margin-left: 550px;
+
+			}
+
+img{
+ 
+ 	margin-left: 500px;
+
+
+
+}
+h1{
+	margin-left: 475px;
+	color: #610B0B;
+	text-shadow: 2px 2px #000000;
+}
+
+h2{
+
+	margin-left: 500px;
+	color: white;
+	text-shadow: 2px 2px #000000;
+}
+
+h3{
+     color: white;
+     margin-left: 475px;
+     text-shadow:2px 2px #000000;
+}
+
+
+
+input{
+
+	border: 0;
+	padding: 10px;
+	font-size: 18px;
+	margin-left: 500px;
+}
+input[type="submit"]{
+	background: green;
+	color: white;
+	margin-left: 0px;
+}
+
+
+p{
+ margin-left: 100px;
+ margin-right: 100px;
+ color: white;
+ font-size: 24px;
+ text-shadow: 2px 2px #000000;
+}
+
+body{
+
+	background: url("http://wallpoper.com/images/00/29/90/38/daft-punk_00299038.png");
+	
+	background-attachment: fixed;
+}
+@media screen and (max-width: 400px){
+
+nav ul li{
+			display: inline-block;
+			padding-right: 15px;
+			position: relative;
+
+		}
+
+}
+@media screen and (max-width: 578px){
+
+nav ul li{
+			display: inline-block;
+			padding-right: 15px;
+			position: relative;
+
+		}
